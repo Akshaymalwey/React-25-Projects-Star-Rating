@@ -1,0 +1,19 @@
+.hero{
+  display: flex;
+  background-color: grey;
+  text-align: center;
+}
+
+.star-rating{
+  align-items: center;
+  margin: 50px;
+  justify-content: center;
+}
+
+.active{
+  color: #fff700;
+}
+
+.inactive{
+  color: #000000;
+}
